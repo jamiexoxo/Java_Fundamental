@@ -4,7 +4,7 @@ public class IfDemo {
 	public static void main(String[] args) {
 		//Run Configuration => Arguments => Program arguments
 		int month = Integer.parseInt(args[0]);
-		
+	
 		String season = null;
 		if(month ==12 || month==1 || month ==2) {
 			season = "겨울";
