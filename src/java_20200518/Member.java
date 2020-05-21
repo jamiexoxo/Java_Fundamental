@@ -1,5 +1,5 @@
-package java_20200518;
-
+package Java_20200518;
+//art+shift+s + r / tab+enter 5times 
 public class Member {
 	private String name;
 	private String zipcode;
@@ -72,3 +72,6 @@ public class Member {
 		return regdate;
 	}
 }
+	
+	
+	

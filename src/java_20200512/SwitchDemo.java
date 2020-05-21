@@ -4,7 +4,7 @@ public class SwitchDemo {
 	public static void main(String[] args) {
 		int month = Integer.parseInt(args[0]);
 		String season = null;
-		//month =>수식(char, byte, short ,int , String)
+		//month =>수식(char, byte, short , String)
 		switch(month) {
 		//case 평가값 => 반드시 유일해야 함.
 		//case 절에 break가 없으면 아래의 case로 이동한다.

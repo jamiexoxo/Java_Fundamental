@@ -1,4 +1,4 @@
-package java_20200518;
+package Java_20200518;
 
 public class MemberVariableRangeDemo {
 	String name; // string - 클래스
@@ -13,9 +13,7 @@ public class MemberVariableRangeDemo {
 		// int a;
 		// int b = a+10; // error 발생
 		int a = 10;
-		int b = a+10; // a는 없는값임. 그래서 error 발생.
-		
-		//id, a, b의 유효범위는 methodA에서만 사용가능
+		int b = a + 10; // a는 없는값임. 그래서 error 발생.
 	}
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java_20200518;
+package Java_20200518;
 
 public class Calendar {
 	private int year; // 멤버변수에도 널수 있음.
@@ -87,4 +87,6 @@ public class Calendar {
 		System.out.println(year + "년 " + month + "월 " + day + " 일은 " + message + " 입니다.");
 	}
 
+
+	
 }

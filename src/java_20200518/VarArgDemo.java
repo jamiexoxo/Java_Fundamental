@@ -1,6 +1,7 @@
-package java_20200518;
+package Java_20200518;
 
 public class VarArgDemo {
+	
 	public void print(int... a) { //a = variable arguments. 
 		// a 변수는 배열로 처리함. 
 		int length = a.length;
@@ -19,4 +20,5 @@ public class VarArgDemo {
 		v1.print(1000,2000,3000,4000);
 		
 	}
+
 }

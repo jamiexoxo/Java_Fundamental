@@ -14,5 +14,8 @@ public class GarbageCollectorDemo {
 	}
 
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/jamiexoxo/Java_Fundamental.git

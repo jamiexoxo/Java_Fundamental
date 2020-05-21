@@ -1,4 +1,4 @@
-package java_20200518;
+package Java_20200518;
 
 public class StaticMethodDemo {
 	String name;
