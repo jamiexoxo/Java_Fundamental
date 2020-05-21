@@ -13,12 +13,8 @@ public class Child extends Parent {
    }
 	
 	//@Override  //play + art+space
-   // public void play(String baduk) {
-    	// TODO Auto-generated method stub
-    	//super.play(baduk);
-    //}
-   
-	
+
+
 	public void setParentMoney(int money) { 
 		super.money = money; //parent의 머니를 쓰는 것.  
 		//this.money = money; //자식꺼 . 
@@ -29,8 +25,4 @@ public class Child extends Parent {
 	}
 	//하나는 부모에 있는 생성자 호출 
 	//자식과 부모와 인스턴스 변수가 충돌이 날 경우 this.money 자기자신 객체, super.money는 부모 객체. 
-<<<<<<< HEAD
-	
-=======
->>>>>>> branch 'master' of https://github.com/jamiexoxo/Java_Fundamental.git
-}
+

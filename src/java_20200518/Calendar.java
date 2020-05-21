@@ -1,4 +1,4 @@
-package Java_20200518;
+package java_20200518;
 
 public class Calendar {
 	private int year; // 멤버변수에도 널수 있음.

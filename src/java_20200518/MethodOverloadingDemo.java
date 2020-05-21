@@ -1,4 +1,4 @@
-package Java_20200518;
+package java_20200518;
 
 public class MethodOverloadingDemo {
 	//MethodOverloadingDemo 클래스에서는 print 메서드를 4가지로 오버로딩 

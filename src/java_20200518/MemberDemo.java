@@ -1,4 +1,4 @@
-package Java_20200518;
+package java_20200518;
 
 public class MemberDemo {
 	//art+shift+s + r / tab+enter 5times 

@@ -1,4 +1,4 @@
-package Java_20200518;
+package java_20200518;
 
 public class MethodDemo {
 	// 8 -16 라인 까지 메서드를 정의
